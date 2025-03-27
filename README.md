@@ -35,7 +35,7 @@ To configure these settings, use the `postinstall.sh` script in the setup direct
 In the live environment:
 
 ```sh
-curl -o install.sh https://raw.githubusercontent.com/MoritzRS/arch-setup/main/2025-03-02/install.sh
+curl -o install.sh https://raw.githubusercontent.com/MoritzRS/arch-setup/main/2025-03-27/install.sh
 vim install.sh
 bash install.sh
 ```
@@ -43,7 +43,7 @@ bash install.sh
 On the installed system:
 
 ```sh
-curl -o postinstall.sh https://raw.githubusercontent.com/MoritzRS/arch-setup/main/2025-03-02/postinstall.sh
+curl -o postinstall.sh https://raw.githubusercontent.com/MoritzRS/arch-setup/main/2025-03-27/postinstall.sh
 vim postinstall.sh
 bash postinstall.sh
 ```
